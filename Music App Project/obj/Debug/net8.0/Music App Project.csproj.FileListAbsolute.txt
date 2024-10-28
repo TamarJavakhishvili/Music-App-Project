@@ -1,0 +1,42 @@
+C:\Users\tamun\OneDrive\Desktop\#C_ITstep\Music App Project\bin\Debug\net8.0\Music App Project.exe
+C:\Users\tamun\OneDrive\Desktop\#C_ITstep\Music App Project\bin\Debug\net8.0\Music App Project.deps.json
+C:\Users\tamun\OneDrive\Desktop\#C_ITstep\Music App Project\bin\Debug\net8.0\Music App Project.runtimeconfig.json
+C:\Users\tamun\OneDrive\Desktop\#C_ITstep\Music App Project\bin\Debug\net8.0\Music App Project.dll
+C:\Users\tamun\OneDrive\Desktop\#C_ITstep\Music App Project\bin\Debug\net8.0\Music App Project.pdb
+C:\Users\tamun\OneDrive\Desktop\#C_ITstep\Music App Project\obj\Debug\net8.0\Music App Project.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tamun\OneDrive\Desktop\#C_ITstep\Music App Project\obj\Debug\net8.0\Music App Project.AssemblyInfoInputs.cache
+C:\Users\tamun\OneDrive\Desktop\#C_ITstep\Music App Project\obj\Debug\net8.0\Music App Project.AssemblyInfo.cs
+C:\Users\tamun\OneDrive\Desktop\#C_ITstep\Music App Project\obj\Debug\net8.0\Music App Project.csproj.CoreCompileInputs.cache
+C:\Users\tamun\OneDrive\Desktop\#C_ITstep\Music App Project\obj\Debug\net8.0\Music App Project.dll
+C:\Users\tamun\OneDrive\Desktop\#C_ITstep\Music App Project\obj\Debug\net8.0\refint\Music App Project.dll
+C:\Users\tamun\OneDrive\Desktop\#C_ITstep\Music App Project\obj\Debug\net8.0\Music App Project.pdb
+C:\Users\tamun\OneDrive\Desktop\#C_ITstep\Music App Project\obj\Debug\net8.0\Music App Project.genruntimeconfig.cache
+C:\Users\tamun\OneDrive\Desktop\#C_ITstep\Music App Project\obj\Debug\net8.0\ref\Music App Project.dll
+C:\Users\tamun\OneDrive\Desktop\#C_ITstep\Music App Project_c#\Music App Project\bin\Debug\net8.0\Music App Project.exe
+C:\Users\tamun\OneDrive\Desktop\#C_ITstep\Music App Project_c#\Music App Project\bin\Debug\net8.0\Music App Project.deps.json
+C:\Users\tamun\OneDrive\Desktop\#C_ITstep\Music App Project_c#\Music App Project\bin\Debug\net8.0\Music App Project.runtimeconfig.json
+C:\Users\tamun\OneDrive\Desktop\#C_ITstep\Music App Project_c#\Music App Project\bin\Debug\net8.0\Music App Project.dll
+C:\Users\tamun\OneDrive\Desktop\#C_ITstep\Music App Project_c#\Music App Project\bin\Debug\net8.0\Music App Project.pdb
+C:\Users\tamun\OneDrive\Desktop\#C_ITstep\Music App Project_c#\Music App Project\obj\Debug\net8.0\Music App Project.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tamun\OneDrive\Desktop\#C_ITstep\Music App Project_c#\Music App Project\obj\Debug\net8.0\Music App Project.AssemblyInfoInputs.cache
+C:\Users\tamun\OneDrive\Desktop\#C_ITstep\Music App Project_c#\Music App Project\obj\Debug\net8.0\Music App Project.AssemblyInfo.cs
+C:\Users\tamun\OneDrive\Desktop\#C_ITstep\Music App Project_c#\Music App Project\obj\Debug\net8.0\Music App Project.csproj.CoreCompileInputs.cache
+C:\Users\tamun\OneDrive\Desktop\#C_ITstep\Music App Project_c#\Music App Project\obj\Debug\net8.0\Music App Project.dll
+C:\Users\tamun\OneDrive\Desktop\#C_ITstep\Music App Project_c#\Music App Project\obj\Debug\net8.0\refint\Music App Project.dll
+C:\Users\tamun\OneDrive\Desktop\#C_ITstep\Music App Project_c#\Music App Project\obj\Debug\net8.0\Music App Project.pdb
+C:\Users\tamun\OneDrive\Desktop\#C_ITstep\Music App Project_c#\Music App Project\obj\Debug\net8.0\Music App Project.genruntimeconfig.cache
+C:\Users\tamun\OneDrive\Desktop\#C_ITstep\Music App Project_c#\Music App Project\obj\Debug\net8.0\ref\Music App Project.dll
+C:\Users\tamun\OneDrive\Desktop\Music App Project_C Sharp\Music App Project\bin\Debug\net8.0\Music App Project.exe
+C:\Users\tamun\OneDrive\Desktop\Music App Project_C Sharp\Music App Project\bin\Debug\net8.0\Music App Project.deps.json
+C:\Users\tamun\OneDrive\Desktop\Music App Project_C Sharp\Music App Project\bin\Debug\net8.0\Music App Project.runtimeconfig.json
+C:\Users\tamun\OneDrive\Desktop\Music App Project_C Sharp\Music App Project\bin\Debug\net8.0\Music App Project.dll
+C:\Users\tamun\OneDrive\Desktop\Music App Project_C Sharp\Music App Project\bin\Debug\net8.0\Music App Project.pdb
+C:\Users\tamun\OneDrive\Desktop\Music App Project_C Sharp\Music App Project\obj\Debug\net8.0\Music App Project.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tamun\OneDrive\Desktop\Music App Project_C Sharp\Music App Project\obj\Debug\net8.0\Music App Project.AssemblyInfoInputs.cache
+C:\Users\tamun\OneDrive\Desktop\Music App Project_C Sharp\Music App Project\obj\Debug\net8.0\Music App Project.AssemblyInfo.cs
+C:\Users\tamun\OneDrive\Desktop\Music App Project_C Sharp\Music App Project\obj\Debug\net8.0\Music App Project.csproj.CoreCompileInputs.cache
+C:\Users\tamun\OneDrive\Desktop\Music App Project_C Sharp\Music App Project\obj\Debug\net8.0\Music App Project.dll
+C:\Users\tamun\OneDrive\Desktop\Music App Project_C Sharp\Music App Project\obj\Debug\net8.0\refint\Music App Project.dll
+C:\Users\tamun\OneDrive\Desktop\Music App Project_C Sharp\Music App Project\obj\Debug\net8.0\Music App Project.pdb
+C:\Users\tamun\OneDrive\Desktop\Music App Project_C Sharp\Music App Project\obj\Debug\net8.0\Music App Project.genruntimeconfig.cache
+C:\Users\tamun\OneDrive\Desktop\Music App Project_C Sharp\Music App Project\obj\Debug\net8.0\ref\Music App Project.dll
